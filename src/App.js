@@ -4,7 +4,7 @@ import Card from "./components/Card";
 import data from "./data"
 
 export default function App() {
-    const card = data.map(c => 
+    const cards = data.map(c => 
         <Card 
         badge={c.badge}
         img={c.coverImg}
@@ -19,7 +19,9 @@ export default function App() {
         <div className="app">
             <Navbar />
             <Hero />
-            {card}
+            <div className="cards-list">
+            {cards}
+            </div>
         </div>
     );
 }
