@@ -173,5 +173,21 @@ body {
 @media (min-width: 636px) {
     .cards-list {
         overflow-x: visible;
+        justify-content: space-around;
+    }
+}
+
+@media (min-width: 813px) {
+    .title,
+    .para {
+        text-align: center;
+    }
+    .para {
+        margin: 0 auto;
+    }
+    .logo {
+        box-sizing: content-box;
+        padding: 0 18px 0 0;
+        margin: 0 95% 0 5%;
     }
 }
