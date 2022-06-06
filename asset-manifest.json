@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e372252.css",
+    "main.js": "/static/js/main.1e2a63a8.js",
+    "static/media/photo-grid.png": "/static/media/photo-grid.1d18b47b976c32d6c83e.png",
+    "static/media/poppins-all-400-normal.woff": "/static/media/poppins-all-400-normal.6fbfdac99c274b77fe96.woff",
+    "static/media/poppins-all-300-normal.woff": "/static/media/poppins-all-300-normal.9541f56e25efdc1d8e2d.woff",
+    "static/media/poppins-all-600-normal.woff": "/static/media/poppins-all-600-normal.ef66d5cebf31c6a23603.woff",
+    "static/media/poppins-devanagari-400-normal.woff2": "/static/media/poppins-devanagari-400-normal.64d5f06ee726edd58ca3.woff2",
+    "static/media/poppins-devanagari-300-normal.woff2": "/static/media/poppins-devanagari-300-normal.8236e953c7367362a568.woff2",
+    "static/media/poppins-devanagari-600-normal.woff2": "/static/media/poppins-devanagari-600-normal.3343afa6b8c01e48a23b.woff2",
+    "static/media/poppins-latin-600-normal.woff2": "/static/media/poppins-latin-600-normal.91145014c0350c248ed2.woff2",
+    "static/media/poppins-latin-400-normal.woff2": "/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-latin-300-normal.woff2": "/static/media/poppins-latin-300-normal.39576fe9df8a22cc1bcc.woff2",
+    "static/media/logo.svg": "/static/media/logo.b28cf7f017befbd331c4020b8002efbd.svg",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/static/media/poppins-latin-ext-400-normal.4f38b4331448d2313adc.woff2",
+    "static/media/poppins-latin-ext-600-normal.woff2": "/static/media/poppins-latin-ext-600-normal.d08f0891e438248ce419.woff2",
+    "static/media/poppins-latin-ext-300-normal.woff2": "/static/media/poppins-latin-ext-300-normal.b0bb003afc8483bd32d2.woff2",
+    "static/media/star.svg": "/static/media/star.4253351289a38a7cf56081641a6dcee6.svg",
+    "index.html": "/index.html",
+    "static/media/ellipse.svg": "/static/media/ellipse.113de0f1fdb8e500296172a7ca5930a2.svg",
+    "main.0e372252.css.map": "/static/css/main.0e372252.css.map",
+    "main.1e2a63a8.js.map": "/static/js/main.1e2a63a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e372252.css",
+    "static/js/main.1e2a63a8.js"
+  ]
+}
