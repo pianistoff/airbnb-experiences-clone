@@ -17,14 +17,16 @@ body {
     width: 82.02px;
     height: 25.35px;
     color: #ff5a5f;
-    margin-left: 30px;
+    margin-left: 18px;
 }
 
 .photo-grid {
     display: block;
-    width: 395.91px;
-    height: 232px;
+    width: 100%;
+    max-width: 792px;
+    height: auto;
     margin: 25px auto 32px auto;
+    padding: 0 18px;
 }
 
 .title {
@@ -32,7 +34,7 @@ body {
     font-weight: 600;
     font-size: 36px;
     line-height: 110%;
-    margin: 32px 0 16px 36px;
+    margin: 32px 18px 16px 18px;
 }
 
 .para {
@@ -41,12 +43,12 @@ body {
     font-size: 16px;
     line-height: 110%;
     color: #222222;
-    width: 320px;
-    margin: 16px 0px 49px 36px;
+    max-width: 320px;
+    margin: 16px 18px 49px 18px;
 }
 
 .cards-list {
-    margin: 49px 36px 30px 36px;
+    margin: 49px 18px 30px 18px;
     display: flex;
     overflow-x: scroll;
     padding-bottom: 20px;
@@ -54,9 +56,6 @@ body {
 }
 
 .card {
-    /*
-    margin: 0 18px;
-    */
     flex-grow: 0;
     flex-shrink: 0;
     flex-basis: auto;
