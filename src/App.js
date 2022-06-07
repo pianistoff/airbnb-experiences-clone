@@ -4,12 +4,14 @@ import Card from "./components/Card";
 import data from "./data";
 
 export default function App() {
-    const cards = data.map(card => (<Card key={card.id} {...card} />));
+    const cards = data.map((card) => <Card key={card.id} {...card} />);
     return (
         <div className="app">
             <Navbar />
-            <Hero />
-            <div className="cards-list">{cards}</div>
+            <main className="main">
+                <Hero />
+                <div className="cards-list">{cards}</div>
+            </main>
         </div>
-    )
-    }
+    );
+}

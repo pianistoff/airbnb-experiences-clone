@@ -191,3 +191,12 @@ body {
         margin: 0 95% 0 5%;
     }
 }
+
+@media (min-height: 1012px) {
+    .main {
+        height: calc(100vh - 70px);
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+}
