@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/airbnb-experiences-clone/static/css/main.2c5056d2.css",
-    "main.js": "/airbnb-experiences-clone/static/js/main.c7941eb5.js",
+    "main.css": "/airbnb-experiences-clone/static/css/main.ebb458ff.css",
+    "main.js": "/airbnb-experiences-clone/static/js/main.fa74d4dd.js",
     "static/media/photo-grid.png": "/airbnb-experiences-clone/static/media/photo-grid.f774128774e730645029.png",
     "static/media/poppins-all-400-normal.woff": "/airbnb-experiences-clone/static/media/poppins-all-400-normal.6fbfdac99c274b77fe96.woff",
     "static/media/poppins-all-300-normal.woff": "/airbnb-experiences-clone/static/media/poppins-all-300-normal.9541f56e25efdc1d8e2d.woff",
@@ -19,11 +19,11 @@
     "index.html": "/airbnb-experiences-clone/index.html",
     "static/media/star.svg": "/airbnb-experiences-clone/static/media/star.4253351289a38a7cf56081641a6dcee6.svg",
     "static/media/ellipse.svg": "/airbnb-experiences-clone/static/media/ellipse.113de0f1fdb8e500296172a7ca5930a2.svg",
-    "main.2c5056d2.css.map": "/airbnb-experiences-clone/static/css/main.2c5056d2.css.map",
-    "main.c7941eb5.js.map": "/airbnb-experiences-clone/static/js/main.c7941eb5.js.map"
+    "main.ebb458ff.css.map": "/airbnb-experiences-clone/static/css/main.ebb458ff.css.map",
+    "main.fa74d4dd.js.map": "/airbnb-experiences-clone/static/js/main.fa74d4dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c5056d2.css",
-    "static/js/main.c7941eb5.js"
+    "static/css/main.ebb458ff.css",
+    "static/js/main.fa74d4dd.js"
   ]
 }
